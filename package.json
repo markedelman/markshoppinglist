@@ -1,0 +1,19 @@
+{
+  "name": "shopping-list-mark",
+  "version": "1.0.0",
+  "description": "original shopping list app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markedelman/markshoppinglist.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markedelman/markshoppinglist/issues"
+  },
+  "homepage": "https://github.com/markedelman/markshoppinglist#readme"
+}
